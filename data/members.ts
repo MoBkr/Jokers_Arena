@@ -12,7 +12,7 @@ export const members: Member[] = [
   // --- القادة (Team Leaders) ---
   { id: 'LD000', name: 'محمد بابكر', role: 'Team Leader', points: 5000 },
   { id: 'LD001', name: 'سارة عيد', role: 'Team Leader', points: 4800 },
-   { id: 'LD007', name: 'مينا مسعود', role: 'Team Leader', points: 4800 },
+   { id: 'LD007', name: 'مينا السبعاوي', role: 'Team Leader', points: 4800 },
   
   // --- المرشدين (HRs) ---
   { id: 'HR001', name: 'سارة متابعة', role: 'HR', points: 3000 },
