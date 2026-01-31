@@ -15,10 +15,14 @@ export const members: Member[] = [
    { id: 'LD007', name: 'مينا السبعاوي', role: 'Team Leader', points: 4800 },
   
   // --- المرشدين (HRs) ---
-  { id: 'HR001', name: 'سارة متابعة', role: 'HR', points: 3000 },
-  { id: 'HR002', name: 'ياسين رقابة', role: 'HR', points: 2900 },
+  { id: 'HR001', name: 'منه العطار', role: 'HR', points: 3000 },
+  { id: 'HR002', name: 'ملك علاء', role: 'HR', points: 2900 },
+  { id: 'HR003', name: 'روضه سيد', role: 'HR', points: 2900 },
+  { id: 'HR004', name: 'ايه ايمن', role: 'HR', points: 2900 },
+  { id: 'HR005', name: 'ندى محمد', role: 'HR', points: 2900 },
+  { id: 'HR006', name: 'هبه قريشي', role: 'HR', points: 2900 },
 
-  // --- الأعضاء التابعين لـ سارة (HR001) ---
+  // --- الأعضاء التابعين لـ منه (HR001) ---
   { id: 'JK001', name: 'أحمد محمود', role: 'Programmer', points: 1250, mentorId: 'HR001' },
   { id: 'JK002', name: 'سارة علي', role: 'Content Writer', points: 1100, mentorId: 'HR001' },
   { id: 'JK003', name: 'ياسين حسن', role: 'Graphic Designer', points: 1400, mentorId: 'HR001' },
