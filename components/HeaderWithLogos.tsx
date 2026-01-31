@@ -21,7 +21,7 @@ const HeaderWithLogos: React.FC<HeaderProps> = ({ isLoggedIn, onLogout, toggleTh
           {/* Organization Logo (Shabab) */}
           <Link to={logoLink} className="transition-transform hover:scale-105 block">
             <img 
-              src="photos/shabab_logo.png" 
+              src="/photos/shabab_logo.png" 
               alt="شباب بتساعد شباب" 
               className="w-12 h-12 rounded-xl object-contain bg-white dark:bg-transparent"
             />
@@ -32,7 +32,7 @@ const HeaderWithLogos: React.FC<HeaderProps> = ({ isLoggedIn, onLogout, toggleTh
           {/* Joker Branding Logo */}
           <Link to={logoLink} className="hover:scale-105 transition-transform block">
             <img 
-              src="photos/logo.png" 
+              src="/photos/logo.png" 
               alt="الجوكر" 
               className="w-12 h-12 rounded-xl pixel-art joker-glow joker-glow-pulse object-contain border-2 border-joker-coral bg-white dark:bg-transparent transition-all duration-300"
             />
