@@ -13,6 +13,7 @@ export const members: Member[] = [
   { id: 'LD000', name: 'محمد بابكر', role: 'Team Leader', points: 5000 },
   { id: 'LD001', name: 'سارة عيد', role: 'Team Leader', points: 4800 },
    { id: 'LD007', name: 'مينا السبعاوي', role: 'Team Leader', points: 4800 },
+   { id: 'LD002', name: 'ندى عاصم', role: 'Team Leader', points: 4800 },
   
   // --- المرشدين (HRs) ---
   { id: 'HR001', name: 'منه العطار', role: 'HR', points: 3000 },
@@ -39,7 +40,6 @@ export const members: Member[] = [
  
   // --- الأعضاء التابعين لـ روضه سيد (HR003) ---
   { id: 'JK022', name: 'أميرة عبدالعزيز', role: 'Customer Support', points: 1535, mentorId: 'HR003' },
-  { id: 'JK021', name: 'ندى عاصم', role: 'Content Writer', points: 1738, mentorId: 'HR003' },
   { id: 'JK029', name: 'مينا مايز', role: 'Programmer', points: 730, mentorId: 'HR003' },
   { id: 'JK014', name: 'شيري', role: 'Programmer', points: 740, mentorId: 'HR003' },
   
