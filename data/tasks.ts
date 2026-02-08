@@ -17,7 +17,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'], // مربوط بـ عمر خالد وأحمد محمود
     dueText: 'الثلاثاء  10/2',
-    discordUrl: 'https://discord.gg/joker-knowledge'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
   {
     id: 'T2',
@@ -27,7 +27,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: ['JK008','JK017','JK026','JK015','JK029','JK014','JK025','JK003','JK028'], 
     dueText: 'الثلاثاء 10/2',
-    discordUrl: 'https://discord.gg/joker-media'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   {
     id: 'T3',
@@ -37,7 +37,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: ['JK005','JK007','JK004','JK024','JK018','JK013','JK016','JK023','JK019','JK002'], // مفيش حد شغال عليه لسه
     dueText: 'الاربعاء 11/2',
-    discordUrl: 'https://discord.gg/joker-ramadan'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
   {
     id: 'T4',
