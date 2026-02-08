@@ -15,7 +15,7 @@ export const tasks: Task[] = [
     description: 'كتابة بوست عن نصائح عملية لتقسيم اليوم بدون burnout',
     status: 'running',
     category: 'Content',
-    ownersIds: ['JK005', 'JK001'], // مربوط بـ عمر خالد وأحمد محمود
+    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009'], // مربوط بـ عمر خالد وأحمد محمود
     dueText: 'الثلاثاء  10/2',
     discordUrl: 'https://discord.gg/joker-knowledge'
   },
