@@ -15,7 +15,7 @@ export const tasks: Task[] = [
     description: 'كتابة بوست عن نصائح عملية لتقسيم اليوم بدون burnout',
     status: 'running',
     category: 'Content',
-    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009'], // مربوط بـ عمر خالد وأحمد محمود
+    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'], // مربوط بـ عمر خالد وأحمد محمود
     dueText: 'الثلاثاء  10/2',
     discordUrl: 'https://discord.gg/joker-knowledge'
   },
@@ -25,7 +25,7 @@ export const tasks: Task[] = [
     description: 'تصميم بوستر',
     status: 'running',
     category: 'Design',
-    ownersIds: ['JK004'], // مربوط بـ ليلى إبراهيم
+    ownersIds: ['JK008','JK017','JK026','JK015','JK029','JK014','JK025','JK003','JK028'], 
     dueText: 'الثلاثاء 10/2',
     discordUrl: 'https://discord.gg/joker-media'
   },
@@ -35,7 +35,7 @@ export const tasks: Task[] = [
     description: 'فيديو عن أفضل أوقات التركيز والمذاكرة في رمضان وتقسيم اليوم حسب الطاقة',
     status: 'running',
     category: 'Video',
-    ownersIds: [], // مفيش حد شغال عليه لسه
+    ownersIds: ['JK005','JK007','JK004','JK024','JK018','JK013','JK016','JK023','JK019','JK002'], // مفيش حد شغال عليه لسه
     dueText: 'الاربعاء 11/2',
     discordUrl: 'https://discord.gg/joker-ramadan'
   },
