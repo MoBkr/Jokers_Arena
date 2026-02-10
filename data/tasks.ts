@@ -58,7 +58,7 @@ export const tasks: Task[] = [
     description: 'اعلان الاستعداد للعشر الاواخر من رمضان ',
     status: 'running',
     category: 'Video',
-    ownersIds: ['JK008','JK007,'JK017','JK004','JK024','JK018','JK013','JK016','JK023','JK019],
+    ownersIds: ['JK008','JK007,'JK017','JK004','JK024','JK018','JK013','JK016','JK023','JK019'],
     dueText: 'السبت 14\2',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
