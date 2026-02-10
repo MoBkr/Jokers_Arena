@@ -25,13 +25,13 @@ export const members: Member[] = [
 
   // --- الأعضاء التابعين لـ منه (HR001) ---
   { id: 'JK009', name: 'أحمد محجوب', role: 'Content Writer', points: 690, mentorId: 'HR001' },
-  { id: 'JK008', name: 'جنه الدسوقي', role: 'Graphic Designer', points: 1089, mentorId: 'HR001' },
-  { id: 'JK005', name: 'سما أحمد', role: 'Video Maker', points: 1435, mentorId: 'HR001' },
+  { id: 'JK008', name: 'جنه الدسوقي', role: 'Video Maker', points: 1089, mentorId: 'HR001' },
+  { id: 'JK005', name: 'سما أحمد', role: 'Graphic Designer', points: 1435, mentorId: 'HR001' },
   { id: 'JK007', name: 'الاء هاني', role: 'Video Maker', points: 1555, mentorId: 'HR001' },
   { id: 'JK030', name: 'روان حسن', role: 'Content Writer', points: 0, mentorId: 'HR001' },
 
   // --- الأعضاء التابعين لـ ملك علاء (HR002) ---
-  { id: 'JK017', name: 'مسك محمد', role: 'Graphic Designer', points: 959, mentorId: 'HR002' },
+  { id: 'JK017', name: 'مسك محمد', role: 'Video Maker', points: 959, mentorId: 'HR002' },
   { id: 'JK004', name: 'يوأنا عزيز', role: 'Video Maker', points: 583, mentorId: 'HR002' },
   { id: 'JK026', name: 'سهر محمد', role: 'Graphic Designer', points: 1081, mentorId: 'HR002' },
   { id: 'JK024', name: 'سدرة ابراهيم', role: 'Video Maker', points: 1495, mentorId: 'HR002' },
@@ -70,7 +70,7 @@ export const members: Member[] = [
 
   { id: 'JK003', name: 'نور حمدي', role: 'Graphic Designer', points: 1295, mentorId: 'HR006' },
   { id: 'JK001', name: 'هدى صبري', role: 'Content Writer', points: 1120, mentorId: 'HR006' },
-  { id: 'JK002', name: 'تغريد سامح', role: 'Video Maker', points: 1231, mentorId: 'HR006' },
+  { id: 'JK002', name: 'تغريد سامح', role: 'Graphic Designer', points: 1231, mentorId: 'HR006' },
   { id: 'JK028', name: 'رنا وائل', role: 'Graphic Designer', points: 665, mentorId: 'HR006' },
   { id: 'JK027', name: 'نور زكريا', role: 'Content Writer', points: 593, mentorId: 'HR006' },
 
