@@ -22,7 +22,7 @@ export const tasks: Task[] = [
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
   {
-    id: 'T5',
+    id: 'T2',
     title: 'قصة عالم/صحابي وعلاقته بالعلم (تصميم بوستر)',
     description: 'Storytelling شبابي عن شخصية إسلامية جمعت بين العلم والعبادة',
     status: 'running',
@@ -53,7 +53,7 @@ export const tasks: Task[] = [
   },
   
   {
-    id: 'T6',
+    id: 'T3',
     title: 'فيديو تحفيزي عن فضل العشرة الأواخر وتقديم الرحلة رسمياً',
     description: 'اعلان الاستعداد للعشر الاواخر من رمضان ',
     status: 'running',
