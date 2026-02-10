@@ -9,55 +9,27 @@ import { Task } from '../types';
  */
 
 export const tasks: Task[] = [
-  {
-    id: 'T1',
-    title: 'ازاي توازن بين العبادة و المذاكرة (كتابة محتوى)',
-    description: 'كتابة بوست عن نصائح عملية لتقسيم اليوم بدون burnout',
-    status: 'running',
-    category: 'Content',
-    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'], // مربوط بـ عمر خالد وأحمد محمود
-    dueText: 'الثلاثاء  10/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
-  },
-  {
-    id: 'T2',
-    title: 'ازاي توازن بين العبادة و المذاكرة (تصميم بوستر) ',
-    description: 'تصميم بوستر',
-    status: 'running',
-    category: 'Design',
-    ownersIds: ['JK008','JK017','JK026','JK015','JK029','JK014','JK025','JK003','JK028'], 
-    dueText: 'الثلاثاء 10/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
-  },
-  {
-    id: 'T3',
-    title: 'افضل  وقت للمذاكرة في رمضان (فيديو ريل)',
-    description: 'فيديو عن أفضل أوقات التركيز والمذاكرة في رمضان وتقسيم اليوم حسب الطاقة',
-    status: 'running',
-    category: 'Video',
-    ownersIds: ['JK005','JK007','JK004','JK024','JK018','JK013','JK016','JK023','JK019','JK002'], // مفيش حد شغال عليه لسه
-    dueText: 'الاربعاء 11/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
-  },
+  
+  
   {
     id: 'T4',
     title: 'قصة عالم/صحابي وعلاقته بالعلم (كتابة محتوى)',
     description: 'Storytelling شبابي عن شخصية إسلامية جمعت بين العلم والعبادة',
-    status: 'upcoming',
+    status: 'running',
     category: 'Content',
-    ownersIds: [''], // أحمد محمود وإياد كريم
-    dueText: '',
-    discordUrl: 'https://discord.gg/joker-dev'
+    ownersIds:  ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'], // أحمد محمود وإياد كريم
+    dueText: 'الخميس 12/2',
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
   {
     id: 'T5',
     title: 'قصة عالم/صحابي وعلاقته بالعلم (تصميم بوستر)',
     description: 'Storytelling شبابي عن شخصية إسلامية جمعت بين العلم والعبادة',
-    status: 'upcoming',
+    status: 'running',
     category: 'Design',
-    ownersIds: [], // هدير محمد
-    dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    ownersIds: ['JK005','JK026','JK003','JK002','JK028', 'JK015','JK029','JK014','JK025'], // هدير محمد
+    dueText: 'الخميس 12/2',
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
    {
     id: 'T8',
@@ -67,7 +39,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
     {
     id: 'T9',
@@ -77,18 +49,18 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   
   {
     id: 'T6',
     title: 'فيديو تحفيزي عن فضل العشرة الأواخر وتقديم الرحلة رسمياً',
     description: 'اعلان الاستعداد للعشر الاواخر من رمضان ',
-    status: 'upcoming',
+    status: 'running',
     category: 'Video',
-    ownersIds: [],
-    dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    ownersIds: ['JK008','JK007,'JK017','JK004','JK024','JK018','JK013','JK016','JK023','JK019],
+    dueText: 'السبت 14\2',
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
    {
     id: 'T7',
@@ -98,7 +70,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   {
     id: 'T10',
@@ -108,7 +80,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
    {
     id: 'T11',
@@ -118,7 +90,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
     {
     id: 'T12',
@@ -128,7 +100,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
       {
     id: 'T13',
@@ -138,7 +110,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   {
     id: 'T14',
@@ -148,7 +120,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
     {
     id: 'T15',
@@ -158,7 +130,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
   {
     id: 'T16',
@@ -168,7 +140,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
     {
     id: 'T17',
@@ -178,7 +150,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
   {
     id: 'T18',
@@ -188,7 +160,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
   {
     id: 'T19',
@@ -198,7 +170,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   {
     id: 'T20',
@@ -208,7 +180,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
   {
     id: 'T21',
@@ -218,7 +190,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
     {
     id: 'T22',
@@ -228,7 +200,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
      {
     id: 'T23',
@@ -238,7 +210,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
        {
     id: 'T24',
@@ -248,7 +220,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
       {
     id: 'T25',
@@ -258,7 +230,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
   {
     id: 'T26',
@@ -268,7 +240,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
     {
     id: 'T26',
@@ -278,6 +250,6 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discord.gg/joker-community'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
 ];
