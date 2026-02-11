@@ -27,7 +27,7 @@ export const tasks: Task[] = [
     description: 'Storytelling شبابي عن شخصية إسلامية جمعت بين العلم والعبادة',
     status: 'running',
     category: 'Design',
-    ownersIds: [ 'JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025'], // هدير محمد
+    ownersIds: [ 'JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'], // هدير محمد
     dueText: 'الخميس 12/2',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
@@ -58,7 +58,7 @@ export const tasks: Task[] = [
     description: 'اعلان الاستعداد للعشر الاواخر من رمضان ',
     status: 'running',
     category: 'Video',
-    ownersIds: [ 'JK008' ,'JK007' , 'JK017' ,'JK004', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
+    ownersIds: [ 'JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
     dueText: 'السبت 14/2',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
   },
