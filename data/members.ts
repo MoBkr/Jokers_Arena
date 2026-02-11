@@ -32,10 +32,10 @@ export const members: Member[] = [
 
   // --- الأعضاء التابعين لـ ملك علاء (HR002) ---
   { id: 'JK017', name: 'مسك محمد', role: 'Video Maker', points: 959, mentorId: 'HR002' },
-  { id: 'JK004', name: 'يوأنا عزيز', role: 'Video Maker', points: 583, mentorId: 'HR002' },
+  { id: 'JK004', name: 'يوأنا عزيز', role: 'Graphic Designer', points: 583, mentorId: 'HR002' },
   { id: 'JK026', name: 'سهر محمد', role: 'Graphic Designer', points: 1081, mentorId: 'HR002' },
   { id: 'JK024', name: 'سدرة ابراهيم', role: 'Video Maker', points: 1495, mentorId: 'HR002' },
-  { id: 'JK015', name: 'شروق شريف', role: 'Graphic Designer', points: 641, mentorId: 'HR002' },
+  { id: 'JK015', name: 'شروق شريف', role: 'Video Maker', points: 641, mentorId: 'HR002' },
   
  
   // --- الأعضاء التابعين لـ روضه سيد (HR003) ---
