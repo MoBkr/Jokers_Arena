@@ -11,56 +11,27 @@ import { Task } from '../types';
 export const tasks: Task[] = [
   
   
-  {
-    id: 'T1',
-    title: 'قصة عالم/صحابي وعلاقته بالعلم (كتابة محتوى)',
-    description: 'Storytelling شبابي عن شخصية إسلامية جمعت بين العلم والعبادة',
-    status: 'running',
-    category: 'Content',
-    ownersIds:  ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'], // أحمد محمود وإياد كريم
-    dueText: 'الخميس 12/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
-  },
-  {
-    id: 'T2',
-    title: 'قصة عالم/صحابي وعلاقته بالعلم (تصميم بوستر)',
-    description: 'Storytelling شبابي عن شخصية إسلامية جمعت بين العلم والعبادة',
-    status: 'running',
-    category: 'Design',
-    ownersIds: [ 'JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'], 
-    dueText: 'الخميس 12/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
-  },
+ 
+  
    {
-    id: 'T8',
+    id: 'T1',
     title: 'كتابة محتوى) ليه دماغك بطيء في رمضان؟)',
     description: 'كتابة محتوى) ليه دماغك بطيء في رمضان؟) ',
-    status: 'upcoming',
+    status: 'running',
     category: 'Content',
     ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
     dueText: 'السبت 14/2',
     discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
     {
-    id: 'T9',
+    id: 'T2',
     title: 'تصميم بوستر) ليه دماغك بطيء في رمضان؟)',
     description: 'تصميم بوستر) ليه دماغك بطيء في رمضان؟) ',
-    status: 'upcoming',
-    category: 'Design',
-    ownersIds: [],
-    dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
-  },
-  
-  {
-    id: 'T3',
-    title: 'فيديو تحفيزي عن فضل العشرة الأواخر وتقديم الرحلة رسمياً',
-    description: 'اعلان الاستعداد للعشر الاواخر من رمضان ',
     status: 'running',
-    category: 'Video',
-    ownersIds: [ 'JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
+    category: 'Design',
+    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'],
     dueText: 'السبت 14/2',
-    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
+    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
    {
     id: 'T7',
@@ -113,10 +84,10 @@ export const tasks: Task[] = [
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   {
-    id: 'T14',
+    id: 'T3',
     title: '  تدبر القران',
     description: 'التركيز على التدبر بدل الكمية',
-    status: 'upcoming',
+    status: 'running',
     category: 'Video',
     ownersIds: [ 'JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
     dueText: 'الثلاثاء 17/2',
