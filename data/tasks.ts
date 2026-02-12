@@ -39,7 +39,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
     dueText: 'السبت 14/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
     {
     id: 'T9',
@@ -60,7 +60,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [ 'JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
     dueText: 'السبت 14/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
+    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
    {
     id: 'T7',
@@ -80,7 +80,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
    {
     id: 'T11',
@@ -100,7 +100,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
       {
     id: 'T13',
@@ -118,9 +118,9 @@ export const tasks: Task[] = [
     description: 'التركيز على التدبر بدل الكمية',
     status: 'upcoming',
     category: 'Video',
-    ownersIds: [],
-    dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
+    ownersIds: [ 'JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
+    dueText: 'الثلاثاء 17/2',
+    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
     {
     id: 'T15',
@@ -130,7 +130,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
   {
     id: 'T16',
@@ -150,7 +150,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
+    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
   {
     id: 'T18',
@@ -160,7 +160,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
   {
     id: 'T19',
@@ -180,7 +180,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
   {
     id: 'T21',
@@ -200,7 +200,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
      {
     id: 'T23',
@@ -220,7 +220,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
+    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
       {
     id: 'T25',
@@ -230,7 +230,7 @@ export const tasks: Task[] = [
     category: 'Video',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960749061476372'
+    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
   {
     id: 'T26',
@@ -240,7 +240,7 @@ export const tasks: Task[] = [
     category: 'Content',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
+    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
     {
     id: 'T26',
