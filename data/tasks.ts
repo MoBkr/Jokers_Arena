@@ -27,7 +27,7 @@ export const tasks: Task[] = [
     description: 'Storytelling شبابي عن شخصية إسلامية جمعت بين العلم والعبادة',
     status: 'running',
     category: 'Design',
-    ownersIds: [ 'JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'], // هدير محمد
+    ownersIds: [ 'JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'], 
     dueText: 'الخميس 12/2',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
@@ -37,8 +37,8 @@ export const tasks: Task[] = [
     description: 'كتابة محتوى) ليه دماغك بطيء في رمضان؟) ',
     status: 'upcoming',
     category: 'Content',
-    ownersIds: [],
-    dueText: '',
+    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
+    dueText: 'السبت 14/2',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960142200344586'
   },
     {
@@ -68,8 +68,8 @@ export const tasks: Task[] = [
     description: 'تصميم متتبع عادات للعشر الاواخر من رمضان ',
     status: 'upcoming',
     category: 'Design',
-    ownersIds: [],
-    dueText: '',
+    ownersIds:  [ 'JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK014','JK025','JK004'],
+    dueText: 'السبت 14/2',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   {
