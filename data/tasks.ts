@@ -13,44 +13,25 @@ export const tasks: Task[] = [
   
  
   
-   {
-    id: 'T1',
-    title: 'كتابة محتوى) ليه دماغك بطيء في رمضان؟)',
-    description: 'كتابة محتوى) ليه دماغك بطيء في رمضان؟) ',
-    status: 'running',
-    category: 'Content',
-    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
-    dueText: 'السبت 14/2',
-    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
-  },
+  
     {
     id: 'T2',
     title: 'تصميم بوستر) ليه دماغك بطيء في رمضان؟)',
     description: 'تصميم بوستر) ليه دماغك بطيء في رمضان؟) ',
-    status: 'upcoming',
-    category: 'Design',
-    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'],
-    dueText: 'السبت 14/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
-  },
-   {
-    id: 'T7',
-    title: 'متتبع عادات العشر الاواخر ',
-    description: 'تصميم متتبع عادات للعشر الاواخر من رمضان ',
     status: 'running',
     category: 'Design',
-    ownersIds:  [ 'JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK014','JK025','JK004'],
-    dueText: 'السبت 14/2',
+    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'],
+    dueText: 'الاثنين 16/2',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
   {
     id: 'T10',
     title: 'بداية العشرة الأواخر (كتابة محتوى) ',
     description: 'كتابة بوست عن بداية العشرة الاواخر و الترويج عن المعسكر الخاص بشباب في العشر الاواخر',
-    status: 'upcoming',
+    status: 'running',
     category: 'Content',
-    ownersIds: [],
-    dueText: '',
+    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
+    dueText: 'الاثنين 16/2',
     discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
    {
