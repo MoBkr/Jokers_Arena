@@ -22,7 +22,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'],
     dueText: 'الاثنين 16/2',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
   {
     id: 'T10',
