@@ -31,7 +31,7 @@ export const tasks: Task[] = [
     status: 'running',
     category: 'Content',
     ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
-    dueText: '',
+    dueText: 'الاربعاء 18/2',
     discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
       {
