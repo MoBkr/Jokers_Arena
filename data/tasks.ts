@@ -13,44 +13,24 @@ export const tasks: Task[] = [
   
  
   
-  
-    {
-    id: 'T2',
-    title: 'تصميم بوستر) ليه دماغك بطيء في رمضان؟)',
-    description: 'تصميم بوستر) ليه دماغك بطيء في رمضان؟) ',
-    status: 'running',
-    category: 'Design',
-    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'],
-    dueText: 'الاثنين 16/2',
-    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
-  },
-  {
-    id: 'T10',
-    title: 'بداية العشرة الأواخر (كتابة محتوى) ',
-    description: 'كتابة بوست عن بداية العشرة الاواخر و الترويج عن المعسكر الخاص بشباب في العشر الاواخر',
-    status: 'running',
-    category: 'Content',
-    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
-    dueText: 'الاثنين 16/2',
-    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
-  },
+
    {
     id: 'T11',
     title: 'بداية العشرة الأواخر (تصميم بوستر) ',
     description: 'تصميم بوستر عن بداية العشرة الاواخر و الترويج عن المعسكر الخاص بشباب في العشر الاواخر',
-    status: 'upcoming',
+    status: 'running',
     category: 'Design',
-    ownersIds: [],
-    dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'],
+    dueText: 'االاربعاء 18/2',
+    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
     {
     id: 'T12',
     title: ' قوة النية (كتابة محتوى)',
     description: 'شرح تأثير النية وأن البداية الصغيرة كافية ',
-    status: 'upcoming',
+    status: 'running',
     category: 'Content',
-    ownersIds: [],
+    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
     dueText: '',
     discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
@@ -64,16 +44,7 @@ export const tasks: Task[] = [
     dueText: '',
     discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
   },
-  {
-    id: 'T3',
-    title: '  تدبر القران',
-    description: 'التركيز على التدبر بدل الكمية',
-    status: 'running',
-    category: 'Video',
-    ownersIds: [ 'JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
-    dueText: 'الثلاثاء 17/2',
-    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
-  },
+
     {
     id: 'T15',
     title: '  كتابة محتوى) الذكر السهل)',
@@ -98,10 +69,10 @@ export const tasks: Task[] = [
     id: 'T17',
     title: '   الدعاء الحقيقي ',
     description: 'الدعاء الشخصي والصادق ',
-    status: 'upcoming',
+    status: 'running',
     category: 'Video',
-    ownersIds: [],
-    dueText: '',
+    ownersIds: ['JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
+    dueText: 'الجمعة 20/2',
     discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
   {
