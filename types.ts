@@ -9,8 +9,8 @@ export type Role =
   | 'Team Leader'
   | 'HR'
   | 'Leader of Content Writers'
-  |'Leader of Video Makers'
-  |'Leader of Graphic Designers' ;
+  | 'Leader of Video Makers'
+  | 'Leader of Graphic Designers' ;
 
 export interface Member {
   id: string;
