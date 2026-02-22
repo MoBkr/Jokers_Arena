@@ -71,7 +71,7 @@ export const members: Member[] = [
   { id: 'JK003', name: 'نور حمدي', role: 'Graphic Designer', points: 1295, mentorId: 'HR006' },
   { id: 'JK001', name: 'هدى صبري', role: 'Content Writer', points: 1120, mentorId: 'HR006' },
   { id: 'JK002', name: 'تغريد سامح', role: 'Graphic Designer', points: 1231, mentorId: 'HR006' },
-  { id: 'JK028', name: 'رنا وائل', role: 'Leader of Graphic Designerers', points: 665, mentorId: 'HR006' },
+  { id: 'JK028', name: 'رنا وائل', role: 'Leader of Graphic Designers', points: 665, mentorId: 'HR006' },
   { id: 'JK027', name: 'نور زكريا', role: 'Content Writer', points: 593, mentorId: 'HR006' },
 
 
