@@ -28,10 +28,10 @@ export const members: Member[] = [
   { id: 'JK008', name: 'جنه الدسوقي', role: 'Video Maker', points: 1089, mentorId: 'HR001' },
   { id: 'JK005', name: 'سما أحمد', role: 'Graphic Designer', points: 1435, mentorId: 'HR001' },
   { id: 'JK007', name: 'الاء هاني', role: 'Video Maker', points: 1555, mentorId: 'HR001' },
-  { id: 'JK030', name: 'روان حسن', role: 'Leader of Content Writeres', points: 0, mentorId: 'HR001' },
+  { id: 'JK030', name: 'روان حسن', role: 'Leader of Content Writers', points: 0, mentorId: 'HR001' },
 
   // --- الأعضاء التابعين لـ ملك علاء (HR002) ---
-  { id: 'JK017', name: 'مسك محمد', role: 'Video Maker', points: 959, mentorId: 'HR002' },
+  { id: 'JK017', name: 'مسك محمد', role: 'Graphic Designer', points: 959, mentorId: 'HR002' },
   { id: 'JK004', name: 'يوأنا عزيز', role: 'Graphic Designer', points: 583, mentorId: 'HR002' },
   { id: 'JK026', name: 'سهر محمد', role: 'Graphic Designer', points: 1081, mentorId: 'HR002' },
   { id: 'JK024', name: 'سدرة ابراهيم', role: 'Leader of Video Makers', points: 1495, mentorId: 'HR002' },
