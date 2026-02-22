@@ -20,7 +20,7 @@ export const tasks: Task[] = [
     description: 'تصميم بوستر عن بداية العشرة الاواخر و الترويج عن المعسكر الخاص بشباب في العشر الاواخر',
     status: 'running',
     category: 'Design',
-    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK004'],
+    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK017' ,'JK004'],
     dueText: 'الاقنين 23/2',
     discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
@@ -71,7 +71,7 @@ export const tasks: Task[] = [
     description: 'الدعاء الشخصي والصادق ',
     status: 'running',
     category: 'Video',
-    ownersIds: ['JK008' ,'JK007' , 'JK017' ,'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
+    ownersIds: ['JK008' ,'JK007' , 'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
     dueText: 'الثلاثاء 24/2',
     discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
