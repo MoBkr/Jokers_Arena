@@ -7,7 +7,10 @@ export type Role =
   | 'Knowledge Builder' 
   | 'Customer Support'
   | 'Team Leader'
-  | 'HR';
+  | 'HR'
+  | 'Leader of Content Writers'
+  |'Leader of Video Makers'
+  |'Leader of Graphic Designers' ;
 
 export interface Member {
   id: string;
