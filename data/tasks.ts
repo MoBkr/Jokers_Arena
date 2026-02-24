@@ -8,7 +8,8 @@ import { Task } from '../types';
  * 3. الفئة (category): اكتب أي اسم فئة (Tech, Content, Media...).
  */
 
-export const tasks: Task[] = [ 
+export const tasks: Task[] = [
+      
       {
     id: 'T13',
     title: ' قوة النية (تصميم بوستر)',
