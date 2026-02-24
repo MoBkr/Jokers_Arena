@@ -17,7 +17,7 @@ export const tasks: Task[] = [
     status: 'running',
     category: 'Design',
     ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028','JK014','JK025','JK017' ,'JK004'],
-    dueText: 'الأربعاء 25/2',
+    dueText: 'الأربعاء 25\2',
     discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
 
@@ -28,7 +28,7 @@ export const tasks: Task[] = [
     status: 'running',
     category: 'Content',
     ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
-    dueText: 'الأربعاء 25/2',
+    dueText: 'الأربعاء 25\2',
     discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
   {
@@ -109,7 +109,7 @@ export const tasks: Task[] = [
     status: 'running',
     category: 'Video',
     ownersIds: ['JK008' ,'JK007' , 'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
-    dueText: 'الجمعة 27/2',
+    dueText: 'الجمعة 27\2',
     discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
       {
