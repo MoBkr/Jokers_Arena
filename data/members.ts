@@ -40,7 +40,7 @@ export const members: Member[] = [
  
   // --- الأعضاء التابعين لـ روضه سيد (HR003) ---
   { id: 'JK022', name: 'أميرة عبدالعزيز', role: 'Content Writer', points: 1535, mentorId: 'HR003' },
-  { id: 'JK029', name: 'مينا مايز', role: 'Graphic Designer', points: 730, mentorId: 'HR003' },
+
   { id: 'JK014', name: 'شيري', role: 'Graphic Designer', points: 740, mentorId: 'HR003' },
   
   
