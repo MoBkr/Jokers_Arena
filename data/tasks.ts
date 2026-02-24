@@ -144,7 +144,7 @@ export const tasks: Task[] = [
     description: '',
     status: 'upcoming',
     category: 'Design',
-    ownersIds: [] 
+    ownersIds: [] ,
     dueText: '',
     discordUrl:'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
