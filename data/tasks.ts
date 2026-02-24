@@ -8,51 +8,26 @@ import { Task } from '../types';
  * 3. الفئة (category): اكتب أي اسم فئة (Tech, Content, Media...).
  */
 
-export const tasks: Task[] = [
-  
-  
- 
-  
-
-   {
-    id: 'T11',
-    title: 'بداية العشرة الأواخر (تصميم بوستر) ',
-    description: 'تصميم بوستر عن بداية العشرة الاواخر و الترويج عن المعسكر الخاص بشباب في العشر الاواخر',
-    status: 'running',
-    category: 'Design',
-    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028', 'JK015','JK029','JK014','JK025','JK017' ,'JK004'],
-    dueText: 'الاقنين 23/2',
-    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
-  },
-    {
-    id: 'T12',
-    title: ' قوة النية (كتابة محتوى)',
-    description: 'شرح تأثير النية وأن البداية الصغيرة كافية ',
-    status: 'running',
-    category: 'Content',
-    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
-    dueText: 'الاثنين 23/2',
-    discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
-  },
+export const tasks: Task[] = [ 
       {
     id: 'T13',
     title: ' قوة النية (تصميم بوستر)',
     description: 'شرح تأثير النية وأن البداية الصغيرة كافية ',
-    status: 'upcoming',
+    status: 'running',
     category: 'Design',
-    ownersIds: [],
-    dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    ownersIds: ['JK005' ,'JK026' , 'JK003' , 'JK002' ,'JK028','JK014','JK025','JK017' ,'JK004'],
+    dueText: 'الأربعاء 25/2',
+    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
 
     {
     id: 'T15',
     title: '  كتابة محتوى) الذكر السهل)',
     description: 'أذكار بسيطة وسريعة خلال اليوم',
-    status: 'upcoming',
+    status: 'running',
     category: 'Content',
-    ownersIds: [],
-    dueText: '',
+    ownersIds: ['JK027', 'JK001','JK012','JK011','JK010','JK022','JK030','JK009','JK006'],
+    dueText: 'الأربعاء 25/2',
     discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
   },
   {
@@ -63,18 +38,9 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
-    {
-    id: 'T17',
-    title: '   الدعاء الحقيقي ',
-    description: 'الدعاء الشخصي والصادق ',
-    status: 'running',
-    category: 'Video',
-    ownersIds: ['JK008' ,'JK007' , 'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
-    dueText: 'الثلاثاء 24/2',
-    discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
-  },
+  
   {
     id: 'T18',
     title: 'الصدقة وأنواعها (كتابة محتوى) ',
@@ -93,7 +59,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
   {
     id: 'T20',
@@ -113,7 +79,7 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
     {
     id: 'T22',
@@ -133,16 +99,16 @@ export const tasks: Task[] = [
     category: 'Design',
     ownersIds: [],
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
        {
     id: 'T24',
     title: 'ليلة القدر',
     description: 'الهدوء والتركيز وعدم الضغط',
-    status: 'upcoming',
+    status: 'running',
     category: 'Video',
-    ownersIds: [],
-    dueText: '',
+    ownersIds: ['JK008' ,'JK007' , 'JK015', 'JK024' ,'JK018','JK013','JK016','JK023','JK019'],
+    dueText: 'الجمعة 27/2',
     discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
       {
@@ -171,8 +137,8 @@ export const tasks: Task[] = [
     description: '',
     status: 'upcoming',
     category: 'Design',
-    ownersIds: [],
+    ownersIds: [] 
     dueText: '',
-    discordUrl: 'https://discordapp.com/channels/1415464121515643123/1466960416713474058'
+    discordUrl:'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
   },
 ];
