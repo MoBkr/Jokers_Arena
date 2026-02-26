@@ -9,36 +9,16 @@ import { Task } from '../types';
  */
 
 export const tasks: Task[] = [
-    {
-  id: 'T13',
-  title: 'تصميم بوستر - قوة النية',
-  description: 'شرح تأثير النية وأن البداية الصغيرة كافية',
-  status: 'running',
-  category: 'Design',
-  ownersIds: ['JK005', 'JK026', 'JK003', 'JK002', 'JK028', 'JK014', 'JK025', 'JK017', 'JK004'],
-  dueText: 'الأربعاء 25/2',
-  discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
-},
 
-{
-  id: 'T15',
-  title: 'كتابة محتوى - الذكر السهل',
-  description: 'أذكار بسيطة وسريعة خلال اليوم',
-  status: 'running',
-  category: 'Content',
-  ownersIds: ['JK027', 'JK001', 'JK012', 'JK011', 'JK010', 'JK022', 'JK030', 'JK009', 'JK006'],
-  dueText: 'الأربعاء 25/2',
-  discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
-},
 
 {
   id: 'T16',
   title: 'تصميم بوستر - الذكر السهل',
   description: 'أذكار بسيطة وسريعة خلال اليوم',
-  status: 'upcoming',
+  status: 'running',
   category: 'Design',
-  ownersIds: [],
-  dueText: '',
+  ownersIds: ['JK005', 'JK026', 'JK003', 'JK002', 'JK028', 'JK014', 'JK025', 'JK017', 'JK004'],
+  dueText: 'السبت 28/2',
   discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
 },
 
@@ -46,10 +26,10 @@ export const tasks: Task[] = [
   id: 'T18',
   title: 'كتابة محتوى - الصدقة وأنواعها',
   description: 'شرح الصدقة بأشكالها المختلفة والتشجيع عليها وفضلها',
-  status: 'upcoming',
+  status: 'running',
   category: 'Content',
-  ownersIds: [],
-  dueText: '',
+  ownersIds: ['JK027', 'JK001', 'JK012', 'JK011', 'JK010', 'JK022', 'JK030', 'JK009', 'JK006'],
+  dueText: ' 28/2 السبت',
   discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
 },
 
@@ -108,24 +88,14 @@ export const tasks: Task[] = [
   discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
 },
 
-{
-  id: 'T24',
-  title: 'فيديو - ليلة القدر',
-  description: 'الهدوء والتركيز وعدم الضغط',
-  status: 'running',
-  category: 'Video',
-  ownersIds: ['JK008', 'JK007', 'JK015', 'JK024', 'JK018', 'JK013', 'JK016', 'JK023', 'JK019'],
-  dueText: 'الجمعة 27/2',
-  discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
-},
       {
     id: 'T25',
     title: ' ماذا بعد رمضان؟',
-    description: '',
-    status: 'upcoming',
+    description: 'فيديو ختامي عن فضل رمضان والإستمرارية بعده',
+    status: 'running',
     category: 'Video',
-    ownersIds: [],
-    dueText: '',
+    ownersIds: ['JK008', 'JK007', 'JK015', 'JK024', 'JK018', 'JK013', 'JK016', 'JK023', 'JK019'],
+    dueText: 'الثلاثاء 3/3',
     discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
   {
