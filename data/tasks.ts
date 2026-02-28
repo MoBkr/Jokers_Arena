@@ -15,7 +15,7 @@ export const tasks: Task[] = [
   id: 'T16',
   title: 'تصميم بوستر - الذكر السهل',
   description: 'أذكار بسيطة وسريعة خلال اليوم',
-  status: 'running',
+  status: 'completed',
   category: 'Design',
   ownersIds: ['JK005', 'JK026', 'JK003', 'JK002', 'JK028', 'JK014', 'JK025', 'JK017', 'JK004'],
   dueText: 'السبت 28/2',
@@ -26,7 +26,7 @@ export const tasks: Task[] = [
   id: 'T18',
   title: 'كتابة محتوى - الصدقة وأنواعها',
   description: 'شرح الصدقة بأشكالها المختلفة والتشجيع عليها وفضلها',
-  status: 'running',
+  status: 'completed',
   category: 'Content',
   ownersIds: ['JK027', 'JK001', 'JK012', 'JK011', 'JK010', 'JK022', 'JK030', 'JK009', 'JK006'],
   dueText: ' 28/2 السبت',
@@ -37,10 +37,10 @@ export const tasks: Task[] = [
   id: 'T19',
   title: 'تصميم بوستر - الصدقة وأنواعها',
   description: 'شرح الصدقة بأشكالها المختلفة والتشجيع عليها وفضلها',
-  status: 'upcoming',
+  status: 'running',
   category: 'Design',
-  ownersIds: [],
-  dueText: '',
+  ownersIds: ['JK005', 'JK026', 'JK003', 'JK002', 'JK028', 'JK014', 'JK025', 'JK017', 'JK004'],
+  dueText: 'الاثنين 2/3',
   discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
 },
 
@@ -48,10 +48,10 @@ export const tasks: Task[] = [
   id: 'T20',
   title: 'كتابة محتوى - إصلاح العلاقات (صلة الرحم)',
   description: 'خطوة بسيطة لإصلاح علاقة',
-  status: 'upcoming',
+  status: 'running',
   category: 'Content',
-  ownersIds: [],
-  dueText: '',
+  ownersIds: ['JK027', 'JK001', 'JK012', 'JK011', 'JK010', 'JK022', 'JK030', 'JK009', 'JK006'],
+  dueText: 'الاثنين 2/3',
   discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
 },
 
@@ -95,7 +95,7 @@ export const tasks: Task[] = [
     status: 'running',
     category: 'Video',
     ownersIds: ['JK008', 'JK007', 'JK015', 'JK024', 'JK018', 'JK013', 'JK016', 'JK023', 'JK019'],
-    dueText: 'الثلاثاء 3/3',
+    dueText: 'الخميس 3/5',
     discordUrl: 'https://chat.whatsapp.com/CfhJLJYaYIv2cu9ZhJjxzu?mode=gi_t'
   },
   {
