@@ -12,28 +12,6 @@ export const tasks: Task[] = [
 
 
 {
-  id: 'T16',
-  title: 'تصميم بوستر - الذكر السهل',
-  description: 'أذكار بسيطة وسريعة خلال اليوم',
-  status: 'completed',
-  category: 'Design',
-  ownersIds: ['JK005', 'JK026', 'JK003', 'JK002', 'JK028', 'JK014', 'JK025', 'JK017', 'JK004'],
-  dueText: 'السبت 28/2',
-  discordUrl: 'https://chat.whatsapp.com/JGR3pn2Abro3uO7Ef4lCnT'
-},
-
-{
-  id: 'T18',
-  title: 'كتابة محتوى - الصدقة وأنواعها',
-  description: 'شرح الصدقة بأشكالها المختلفة والتشجيع عليها وفضلها',
-  status: 'completed',
-  category: 'Content',
-  ownersIds: ['JK027', 'JK001', 'JK012', 'JK011', 'JK010', 'JK022', 'JK030', 'JK009', 'JK006'],
-  dueText: ' 28/2 السبت',
-  discordUrl: 'https://chat.whatsapp.com/Jz0SULZUZxc4rGJ7DBmQDU?mode=gi_t'
-},
-
-{
   id: 'T19',
   title: 'تصميم بوستر - الصدقة وأنواعها',
   description: 'شرح الصدقة بأشكالها المختلفة والتشجيع عليها وفضلها',
